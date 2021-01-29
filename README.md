@@ -1,2 +1,0 @@
-# sem
-Software Engineering Methods
